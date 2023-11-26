@@ -1,4 +1,7 @@
 from processing import ParquetProcess
+import pandas as pd
+import numpy as np
+import os
 
 class ParquetData:
   def __init__(self):
